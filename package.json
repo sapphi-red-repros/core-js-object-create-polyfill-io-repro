@@ -1,0 +1,12 @@
+{
+  "name": "core-js-object-create-polyfill-io-repro",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "serve": "sirv ./dist"
+  },
+  "devDependencies": {
+    "core-js-builder": "^3.31.0",
+    "sirv-cli": "^2.0.2"
+  }
+}
